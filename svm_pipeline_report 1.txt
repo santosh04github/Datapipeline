@@ -1,0 +1,21 @@
+
+Sub-Objective 2: Design and Development of a Machine Learning Pipeline
+
+2.1 Model Preparation:
+- Selected Algorithm: Support Vector Machine (SVM)
+- Reason: Effective in high-dimensional space and well-suited for classification.
+
+2.2 Model Training:
+- 70% training and 30% testing
+- Categorical variables encoded using one-hot encoding
+- Feature scaling applied with StandardScaler
+- Missing values handled with mean (numerical) and mode (categorical)
+
+2.3 Model Evaluation:
+- Accuracy: 0.9080
+
+2.4 MLOps: Metrics Logged
+- Accuracy: 0.9080
+- Precision: 0.9125
+- Recall: 0.9802
+- F1 Score: 0.9452
